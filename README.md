@@ -1,1 +1,7 @@
-# Road_Accidents
+## Übersicht
+Dieses Dashboard visualisiert und analysiert Daten zu Straßenunfällen in einem bestimmten geografischen Gebiet, vermutlich dem Vereinigten Königreich, basierend auf der Karte im rechten Teil der Visualisierung. Es enthält verschiedene Statistiken, die sich auf die Art der Unfälle, den Zeitraum und die Bedingungen der Vorfälle beziehen. Die Daten umfassen sowohl die Anzahl der Unfälle als auch die Anzahl der Opfer und sind nach mehreren Dimensionen kategorisiert.
+## Reduzierung der Unfallzahlen im Vergleich zum Vorjahr
+1-Total CY Casualties (195,7 Tausend): Die Gesamtzahl der Opfer im aktuellen Jahr ist um 11,9% gesunken. Dies deutet auf eine positive Entwicklung hin, möglicherweise durch verbesserte Verkehrssicherheitsmaßnahmen, strengere Gesetze oder bessere Infrastruktur.
+2-Total CY Accidents (144,4 Tausend): Ebenso ist die Zahl der Unfälle um 11,7% zurückgegangen. Dies könnte mit einer geringeren Verkehrsdichte, insbesondere in städtischen Gebieten, zusammenhängen, oder mit einer verbesserten Verkehrskontrolle.
+3-CY Fatal Casualties (2,9 Tausend): Der größte Rückgang ist bei den tödlichen Unfällen zu verzeichnen, mit einer Reduktion um 33,3%. Dies könnte durch verbesserte medizinische Versorgung, Sicherheitsvorrichtungen (z.B. Airbags, Sicherheitsgurte) oder ein strengeres Tempolimit bedingt sein.
+4-CY Serious Casualties (27,0 Tausend) und Slight Casualties (165,8 Tausend): Schwer- und Leichtverletzte sind ebenfalls um 16,2% bzw. 10,6% zurückgegangen. Dies unterstützt den Trend zu weniger schweren Unfällen, möglicherweise durch eine Kombination von Sicherheitsinitiativen.
