@@ -1,1 +1,2 @@
-# Road_Accidents
+## Übersicht
+Dieses Dashboard visualisiert und analysiert Daten zu Straßenunfällen in einem bestimmten geografischen Gebiet, vermutlich dem Vereinigten Königreich, basierend auf der Karte im rechten Teil der Visualisierung. Es enthält verschiedene Statistiken, die sich auf die Art der Unfälle, den Zeitraum und die Bedingungen der Vorfälle beziehen. Die Daten umfassen sowohl die Anzahl der Unfälle als auch die Anzahl der Opfer und sind nach mehreren Dimensionen kategorisiert.
